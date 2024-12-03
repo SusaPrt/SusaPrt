@@ -14,7 +14,7 @@
 
 ## 📫 Come contattarmi
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuo-nome](https://it.linkedin.com/in/susanna-peretti-466747278))
-- 📚 [Google Scholar]([https://scholar.google.com/citations?user=tuo-id](https://scholar.google.com/citations?user=ngen5pgAAAAJ&hl=it))
-- 🔬 [ResearchGate]([https://www.researchgate.net/profile/Tuo_Nome](https://www.researchgate.net/profile/Susanna-Peretti))
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuo-nome](https://it.linkedin.com/in/susanna-peretti-466747278)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=tuo-id](https://scholar.google.com/citations?user=ngen5pgAAAAJ&hl=it)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Tuo_Nome](https://www.researchgate.net/profile/Susanna-Peretti)
 
