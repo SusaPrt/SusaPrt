@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Ciao, sono Susanna!
 
-<!--
-**SusaPrt/SusaPrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sono una studentessa di Informatica, appassionata di Machine e Deep Learning!
 
-Here are some ideas to get you started:
+## 🚀 Progetti Attuali
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Continual Learning
+- Cost-sensitive Feature Selection
+
+## ⚙️ Tecnologie che uso
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📫 Come contattarmi
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuo-nome](https://it.linkedin.com/in/susanna-peretti-466747278))
+- 📚 [Google Scholar]([https://scholar.google.com/citations?user=tuo-id](https://scholar.google.com/citations?user=ngen5pgAAAAJ&hl=it))
+- 🔬 [ResearchGate]([https://www.researchgate.net/profile/Tuo_Nome](https://www.researchgate.net/profile/Susanna-Peretti))
+
