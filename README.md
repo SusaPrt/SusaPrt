@@ -4,7 +4,7 @@
 
 ## 🚀 Progetti Attuali
 
-- Continual Learning
+- Federated Learning
 - Cost-sensitive Feature Selection
 
 ## ⚙️ Tecnologie che uso
