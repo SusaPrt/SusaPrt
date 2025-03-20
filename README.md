@@ -1,7 +1,3 @@
-Here’s the updated version, with consistent line breaks for better readability:
-
----
-
 # 👋 Hi, I'm Susanna!
 
 💻 I’m a Computer Science student with a strong passion for Machine Learning and Deep Learning!
