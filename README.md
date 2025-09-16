@@ -6,7 +6,9 @@ Studentessa di Informatica presso l’Università di Urbino “Carlo Bo”.
 
 ## 🧠 Interessi Principali
 
+- **C/C++** per sistemi embedded
 - **Intelligenza Artificiale:** Machine learning, deep learning, NLP
 - **Python** per data science e AI
-- **C/C++** per sistemi embedded
-- **Sviluppo di modelli AI**: classificazione, clustering, reti neurali
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,tensorflow,pytorch,sklearn)](https://skillicons.dev)
