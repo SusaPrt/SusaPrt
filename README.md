@@ -1,6 +1,6 @@
 # Susanna Peretti 👋
 
-Computer Science student at the University of Urbino "Carlo Bo".
+MSc in Computer Science and Artificial Intelligence
 
 ---
 
